@@ -1,9 +1,3 @@
 <template>
-  <Tutorial/>
+  <Nav />
 </template>
-
-<script>
-export default {
-  name: 'IndexPage'
-}
-</script>
